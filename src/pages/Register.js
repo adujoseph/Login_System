@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 import Logo from '../components/Logo';
-import Form from '../components/Form';
+import Form from '../components/Forms';
 
 import {Actions} from 'react-native-router-flux';
 
